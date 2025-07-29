@@ -1,0 +1,3 @@
+item-name	listing-id	sku	price	shipping-fee	purchase-date	buyer-email	buyer-nick-name	date-listed	item-is-marketplace	quantity
+TUBOPLUS Reposición Junta TÓRICA para TuboX3 y TuboX3 Crystal Ball Pressurizers		ES-C9YX-7X8Y	3.31	1.4	22.06.2025 01:59:42 PDT	8ykk91jbn0v86nb@marketplace.amazon.es		26.04.2023 02:25:11 PDT	y	1
+TUBOPLUS Goma Fija-Grip DE Color Rosa para Sujetar EL Grip U OVERGRIP Y NO TENGAS LA Necesidad DE Poner LA Cinta Aislante!!		1T-ZK3F-CWMR	2.48	0.99	02.07.2025 05:00:03 PDT	sjc10xvxp4z6z2p@marketplace.amazon.es		03.06.2025 05:31:32 PDT	y	2

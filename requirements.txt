@@ -1,0 +1,17 @@
+pandas
+numpy
+python-dotenv
+matplotlib
+seaborn
+plotly
+wordcloud
+streamlit
+streamlit-aggrid
+prophet
+scikit-learn
+statsmodels
+sqlalchemy
+requests
+openai
+langchain
+tqdm
