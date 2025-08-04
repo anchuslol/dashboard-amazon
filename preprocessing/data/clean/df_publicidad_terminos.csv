@@ -1,0 +1,850 @@
+fecha,nombre_de_la_cartera,divisa,nombre_de_campana,nombre_del_grupo_de_anuncios,segmentacion,tipo_de_coincidencia,termino_de_busqueda_de_cliente,impresiones,clics,porcentaje_de_clics_ctr,coste_por_clic_cpc,gasto,ventas_totales_de_7_dias,coste_publicitario_de_las_ventas_acos_total,retorno_de_la_inversion_publicitaria_roas_total,pedidos_totales_de_7_dias_#,unidades_totales_de_7_dias_#,tasa_de_conversion_de_7_dias,unidades_sku_anunciadas_7_dias_#,otras_unidades_sku_de_7_dias_#,ventas_sku_anunciadas_7_dias,otras_ventas_sku_de_7_dias
+2025-06-15,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pelotas,BROAD,presurizador pelotas,6,1,0.16666666666666663,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador de bolas,BROAD,presurizador de bolas,1,1,1.0,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel presurizador,BROAD,presurizador padel,27,1,0.037037037037037035,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel presurizador,BROAD,presurizador padel,16,1,0.0625,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-12,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel presurizador,BROAD,presurizador padel tubo,1,1,1.0,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel presurizador,BROAD,presurizador pelotas padel,10,1,0.1,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pádel,BROAD,presurizador padel,17,1,0.0588235294117647,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pádel,BROAD,presurizador pelotas padel,4,1,0.25,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-12,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pelota,BROAD,tennis ball pressurizer,1,1,1.0,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-14,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pelota padel,BROAD,bote para pelotas de padel presurizador,1,1,1.0,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-10,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pelota padel,BROAD,presurizador pelota padel,3,1,0.3333333333333333,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pelota padel,BROAD,presurizador pelotas de padel,2,1,0.5,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pelota padel,BROAD,presurizador pelotas padel,6,1,0.16666666666666663,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pelota padel,BROAD,presurizador pelotas padel,75,3,0.04,0.03,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-06,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pelota padel,BROAD,presurizador pelotas padel,50,2,0.04,0.03,0.06,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-07,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pelota padel,BROAD,presurizador pelotas padel,28,1,0.03571428571428571,0.02,0.02,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pelota padel,BROAD,presurizador pelotas padel,45,2,0.04444444444444445,0.03,0.06,33.06,0.0018148820326678763,551.0000000000001,2,2,1.0,2,0,33.06,0.0
+2025-06-12,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pelota padel,BROAD,presurizador pelotas padel,67,1,0.014925373134328356,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pelota padel,BROAD,presurizador pelotas padel,47,1,0.02127659574468085,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-12,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador de pelotas,BROAD,presurizador pelotas tenis,13,1,0.07692307692307693,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador de pelotas,BROAD,presurizador pelotas tenis,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel pelotas,BROAD,pelotas padel nox,1,1,1.0,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0BTDTVCG2 - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel pelotas,BROAD,presion pelotas padel,1,1,1.0,0.03,0.03,16.53,0.0018148820326678763,551.0000000000001,1,1,1.0,1,0,16.53,0.0
+2025-06-09,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel presurizador pelotas,BROAD,bote presurizador pelotas padel,3,1,0.3333333333333333,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-13,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel presurizador pelotas,BROAD,presurizador pelotas padel,15,1,0.06666666666666667,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel presurizador pelotas,BROAD,presurizador pelotas padel,52,1,0.019230769230769232,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel presurizador pelotas,BROAD,presurizador pelotas padel,58,1,0.017241379310344827,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-06,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel presurizador pelotas,BROAD,presurizador pelotas padel head,3,1,0.3333333333333333,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel presurizador pelotas,BROAD,szaluyk presurizador pelotas padel,1,1,1.0,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador padel,BROAD,presurizador padel,4,1,0.25,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-12,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador padel,BROAD,presurizador pelotas padel,58,1,0.017241379310344827,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pádel,BROAD,pelotas padel presurizador,3,1,0.3333333333333333,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-07,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pádel,BROAD,presurizador padel,7,1,0.14285714285714285,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-14,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pádel,BROAD,presurizador padel,31,2,0.06451612903225806,0.03,0.06,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pádel,BROAD,presurizador padel,48,1,0.02083333333333333,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pádel,BROAD,presurizador pelotas padel,47,2,0.0425531914893617,0.03,0.06,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-08,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pádel,BROAD,presurizador pelotas padel,126,1,0.007936507936507936,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-09,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pádel,BROAD,presurizador pelotas padel,93,2,0.021505376344086027,0.03,0.06,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pádel,BROAD,presurizador pelotas padel,55,2,0.03636363636363636,0.03,0.06,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-12,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pádel,BROAD,presurizador pelotas padel,48,1,0.02083333333333333,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pádel,BROAD,presurizador pelotas padel,62,2,0.03225806451612903,0.03,0.06,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pádel,BROAD,presurizador pelotas padel,81,3,0.037037037037037035,0.03,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-13,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pelota,BROAD,presurizador pelotas,12,1,0.08333333333333331,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-12,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pelota,BROAD,presurizador pelotas tenis,19,1,0.05263157894736842,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-14,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pelota,BROAD,presurizador pelotas tenis,14,1,0.07142857142857142,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-06,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,presurizador pelota padel,BROAD,presurizador pelotas padel,115,1,0.008695652173913044,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-12,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,bolas padel presurizador,BROAD,bolas padel presurizador,181,1,0.005524861878453038,0.05,0.05,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,bolas padel presurizador,BROAD,bolas padel presurizador,5,1,0.2,0.05,0.05,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,bolas padel presurizador,BROAD,bote presurizador bolas padel,7,1,0.14285714285714285,0.05,0.05,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-07,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,bolas padel presurizador,BROAD,bounce tube presurizador de bolas de padel,8,1,0.125,0.05,0.05,16.53,0.003024803387779794,330.6,1,1,1.0,1,0,16.53,0.0
+2025-06-08,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,bolas padel presurizador,BROAD,presurizador bolas de padel,11,1,0.09090909090909093,0.05,0.05,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-14,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,bolas padel presurizador,BROAD,presurizador bolas de padel,60,1,0.016666666666666666,0.05,0.05,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,bolas padel presurizador,BROAD,presurizador bolas de padel,1,1,1.0,0.05,0.05,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,bolas padel presurizador,BROAD,presurizador bolas padel,54,1,0.018518518518518517,0.05,0.05,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,bolas padel presurizador,BROAD,presurizador bolas padel,55,1,0.01818181818181818,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-07,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,bolas padel presurizador,BROAD,presurizador bolas padel,107,1,0.009345794392523364,0.05,0.05,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,bolas padel presurizador,BROAD,presurizador bolas padel,36,1,0.027777777777777776,0.05,0.05,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,bolas padel presurizador,BROAD,presurizador bolas padel,117,1,0.008547008547008548,0.05,0.05,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,bolas padel presurizador,BROAD,presurizador de bolas de padel,19,1,0.05263157894736842,0.05,0.05,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,bolas padel presurizador,BROAD,presurizador de bolas de padel,69,1,0.014492753623188406,0.05,0.05,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,bolas padel presurizador,BROAD,presurizador de bolas de padel,5,1,0.2,0.05,0.05,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,bolas padel presurizador,BROAD,presurizador de bolas de padel,13,1,0.07692307692307693,0.04,0.04,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-12,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel,BROAD,adidas padel bolas,1,1,1.0,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel,BROAD,bote presion bolas padel,6,1,0.16666666666666663,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel,BROAD,descompresorde aire padel,1,1,1.0,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-08,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel,BROAD,grip padel,15,1,0.06666666666666667,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel,BROAD,head tube 3 padel balls,4,1,0.25,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-09,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel,BROAD,padel,19,1,0.05263157894736842,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-07,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel,BROAD,presurizador padel,13,1,0.07692307692307693,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-10,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel,BROAD,presurizador padel,7,1,0.14285714285714285,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-12,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel,BROAD,presurizador padel,12,1,0.08333333333333331,0.03,0.03,16.53,0.0018148820326678763,551.0000000000001,1,1,1.0,0,1,0.0,16.53
+2025-06-08,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,pelotas padel,BROAD,bote de presion pelotas padel,1,1,1.0,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-06,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,pelotas padel,BROAD,caja pelotas padel,1,1,1.0,0.03,0.03,16.53,0.0018148820326678763,551.0000000000001,1,1,1.0,1,0,16.53,0.0
+2025-06-12,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,pelotas padel,BROAD,dispositivo de presion pelotas padel,2,1,0.5,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-14,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,pelotas padel,BROAD,presion pelotas padel,1,1,1.0,0.03,0.03,16.53,0.0018148820326678763,551.0000000000001,1,1,1.0,1,0,16.53,0.0
+2025-06-06,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel pelotas,BROAD,presurizador pelotas padel,2,1,0.5,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-14,No Portfolio,EUR,Campaña con ajustes preestablecidos - B0786KK4TG - 7/11/2024 14:46:29,Grupo de anuncios - 7/11/2024 14:46:29,padel pelotas,BROAD,presurizador pelotas padel,34,1,0.02941176470588235,0.03,0.03,16.53,0.0018148820326678763,551.0000000000001,1,1,1.0,1,0,16.53,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,accesorios padel,12,1,0.08333333333333331,0.06,0.06,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,accesorios padel,4,1,0.25,0.59,0.59,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,accesorios tenis,64,1,0.015625,0.17,0.17,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,almacenaje pelotas padel,2,1,0.5,0.13,0.13,16.53,0.007864488808227465,127.15384615384616,1,1,1.0,1,0,16.53,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,antivibrador raqueta tenis,1,1,1.0,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,arreglar pelotas de padel,1,1,1.0,0.63,0.63,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,complements,-,b000fj7cfc,3,1,0.3333333333333333,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b000gn3h1a,7,1,0.14285714285714285,0.18,0.18,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b001fzcvtm,1,1,1.0,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b001gm5286,8,1,0.125,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-09,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b001gm5286,8,1,0.125,0.48,0.48,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b001gm5286,32,1,0.03125,0.24,0.24,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b001oo4dhw,8,1,0.125,0.2,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-18,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b002joyykw,2,1,0.5,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b002joyykw,3,1,0.3333333333333333,0.21,0.21,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b002l2o40c,22,1,0.04545454545454546,0.18,0.18,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b003xydpma,8,1,0.125,0.07,0.07,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b008lyjay4,16,1,0.0625,0.21,0.21,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-24,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b00hctd6gm,11,2,0.18181818181818182,0.11,0.22,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b00hctd6gm,4,1,0.25,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b00hw0dzxk,2,1,0.5,0.16,0.16,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b00p6o785a,4,1,0.25,0.18,0.18,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,complements,-,b00x7c04yk,2,1,0.5,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-26,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,complements,-,b0183rz2vi,1,1,1.0,0.05,0.05,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0183rz2vi,15,1,0.06666666666666667,0.31,0.31,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0183rz2vi,8,1,0.125,0.24,0.24,16.53,0.01451905626134301,68.87500000000001,1,1,1.0,0,1,0.0,16.53
+2025-06-19,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0183rz2vi,3,1,0.3333333333333333,0.04,0.04,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-09,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b0191p25os,8,1,0.125,0.32,0.32,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-12,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0191p25os,12,1,0.08333333333333331,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0191p25os,12,1,0.08333333333333331,0.17,0.17,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0191p25os,55,1,0.01818181818181818,0.14,0.14,20.66,0.006776379477250727,147.57142857142856,1,1,1.0,1,0,20.66,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b01ga8t6e6,1,1,1.0,0.28,0.28,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b01maw6q3f,4,1,0.25,0.19,0.19,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b06wvqdvrt,4,1,0.25,0.16,0.16,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-14,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b06xswtb99,1,1,1.0,0.2,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b074pqltxw,122,2,0.01639344262295082,0.335,0.67,16.53,0.04053236539624924,24.671641791044777,1,1,0.5,1,0,16.53,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b074pqltxw,267,3,0.011235955056179777,0.11333333333333334,0.34,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b074pqltxw,182,3,0.016483516483516484,0.07333333333333333,0.22,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-07,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b074pqltxw,33,2,0.06060606060606061,0.08,0.16,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-10,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b074pqltxw,34,1,0.02941176470588235,0.04,0.04,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-13,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b074pqltxw,35,1,0.02857142857142857,0.32,0.32,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b074pqltxw,7,1,0.14285714285714285,0.16,0.16,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b074pqltxw,116,2,0.017241379310344827,0.115,0.23,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,complements,-,b074pqltxw,139,1,0.007194244604316548,0.11,0.11,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,complements,-,b074pr229b,6,1,0.16666666666666663,0.1,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b074pr229b,135,1,0.007407407407407408,0.21,0.21,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b074pr229b,141,1,0.007092198581560284,0.02,0.02,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b074pr229b,100,1,0.01,0.13,0.13,34.71,0.0037453183520599256,267.0,1,1,1.0,1,0,34.71,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b074pr229b,138,2,0.014492753623188406,0.075,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b074pr229b,80,1,0.0125,0.16,0.16,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-14,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b074pr229b,48,2,0.04166666666666666,0.23,0.46,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-17,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b074pr229b,14,1,0.07142857142857142,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-22,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b074pr229b,11,1,0.09090909090909093,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b074pr229b,57,1,0.017543859649122806,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,complements,-,b074pr229b,65,1,0.015384615384615385,0.17,0.17,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b076tgj7jz,48,1,0.02083333333333333,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,complements,-,b0786kk4tg,4,1,0.25,0.23,0.23,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0786kk4tg,105,4,0.0380952380952381,0.24000000000000002,0.9600000000000001,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,complements,-,b0786kk4tg,54,3,0.05555555555555555,0.03666666666666667,0.11,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b0786kk4tg,8,1,0.125,0.52,0.52,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-07,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0786kk4tg,29,1,0.034482758620689655,0.23,0.23,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-17,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0786kk4tg,33,2,0.06060606060606061,0.425,0.85,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,complements,-,b0786kk4tg,8,1,0.125,0.06,0.06,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0786kk4tg,44,1,0.02272727272727273,0.24,0.24,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0786kk4tg,170,3,0.01764705882352941,0.2066666666666667,0.6200000000000001,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b079v6rwbd,4,1,0.25,0.16,0.16,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b07bcp8g52,85,1,0.011764705882352943,0.1,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-19,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b07bcp8g52,7,1,0.14285714285714285,0.12,0.12,16.53,0.007259528130671505,137.75000000000003,1,1,1.0,1,0,16.53,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b07f18mpqq,107,2,0.018691588785046728,0.135,0.27,16.53,0.016333938294010888,61.22222222222222,1,1,0.5,1,0,16.53,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b07f18mpqq,14,1,0.07142857142857142,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b07f18mpqq,16,1,0.0625,0.1,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b07kr94nt1,1,1,1.0,0.39,0.39,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,substitutes,-,b07mvvzckm,54,2,0.037037037037037035,0.14,0.28,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b07mvvzckm,88,1,0.011363636363636366,0.23,0.23,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-13,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b07mvvzckm,24,1,0.04166666666666666,0.21,0.21,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b07mvvzckm,79,1,0.012658227848101267,0.54,0.54,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b07mvvzckm,104,1,0.009615384615384616,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-08,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b07pxw414l,8,2,0.25,0.29,0.58,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b07sl394q2,7,1,0.14285714285714285,0.22,0.22,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b07svyq72v,1,1,1.0,0.2,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b07ttxbmqt,1,1,1.0,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-14,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b07yzj3nwm,2,1,0.5,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b07yzj3nwm,12,1,0.08333333333333331,0.26,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,substitutes,-,b07zthsvck,23,2,0.08695652173913043,0.245,0.49,20.66,0.02371732817037754,42.16326530612245,1,1,0.5,1,0,20.66,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b07zthsvck,52,1,0.019230769230769232,0.38,0.38,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b07zthsvck,52,1,0.019230769230769232,0.27,0.27,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b07zthsvck,20,3,0.15,0.29333333333333333,0.88,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-06,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b07zthsvck,18,1,0.05555555555555555,0.26,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b07zthsvck,12,1,0.08333333333333331,0.38,0.38,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b081279xt3,26,1,0.038461538461538464,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b082xkrsq3,10,1,0.1,0.17,0.17,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-24,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b082xkrsq3,7,1,0.14285714285714285,0.57,0.57,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0843g239x,68,1,0.014705882352941175,0.1,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0843g239x,38,1,0.02631578947368421,0.19,0.19,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0843g239x,5,1,0.2,0.19,0.19,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0843g239x,45,2,0.04444444444444445,0.1,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b085t72cnz,9,1,0.1111111111111111,0.2,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08b8zlz6s,41,2,0.04878048780487805,0.18,0.36,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08b8zlz6s,39,2,0.05128205128205128,0.085,0.17,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08b8zlz6s,34,1,0.02941176470588235,0.02,0.02,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08b8zlz6s,32,1,0.03125,0.12,0.12,20.66,0.005808325266214908,172.16666666666669,1,1,1.0,1,0,20.66,0.0
+2025-06-17,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08b8zlz6s,18,2,0.1111111111111111,0.295,0.59,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-12,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08bhr6df9,11,1,0.09090909090909093,0.08,0.08,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-19,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,complements,-,b08bhr6df9,5,1,0.2,0.05,0.05,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08gst9znh,9,1,0.1111111111111111,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08gst9znh,33,1,0.030303030303030304,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08gst9znh,48,1,0.02083333333333333,0.11,0.11,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08gsvl28y,81,2,0.024691358024691357,0.07500000000000001,0.15000000000000002,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08gsvl28y,5,1,0.2,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08gsvl28y,4,1,0.25,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-19,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08gsvl28y,7,1,0.14285714285714285,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,complements,-,b08gsvl28y,5,1,0.2,0.11,0.11,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,complements,-,b08gsvl28y,13,2,0.15384615384615385,0.145,0.29,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08gsvl28y,36,1,0.027777777777777776,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-24,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08hlxd6hz,4,1,0.25,0.06,0.06,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08swg1sqc,6,1,0.16666666666666663,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-22,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,complements,-,b08vdr5xz6,8,1,0.125,0.11,0.11,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08vdr5xz6,145,2,0.013793103448275864,0.115,0.23,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b08vdr5xz6,31,1,0.03225806451612903,0.08,0.08,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08vdr5xz6,178,2,0.011235955056179777,0.09,0.18,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08vdr5xz6,112,1,0.008928571428571428,0.07,0.07,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-06,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08vdr5xz6,22,1,0.04545454545454546,0.06,0.06,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-08,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08vdr5xz6,60,2,0.03333333333333333,0.08,0.16,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-13,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08vdr5xz6,32,1,0.03125,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08vdr5xz6,8,1,0.125,0.1,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b08vdr5xz6,216,6,0.027777777777777776,0.15166666666666664,0.9099999999999999,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b08x1p17cz,1,1,1.0,0.08,0.08,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0917xbf98,3,1,0.3333333333333333,0.36,0.36,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0917xbf98,14,2,0.14285714285714285,0.075,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b09266n893,15,2,0.13333333333333333,0.22,0.44,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b09266n893,4,1,0.25,0.02,0.02,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-10,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b093qjm7mv,6,1,0.16666666666666663,0.22,0.22,16.53,0.013309134906231096,75.13636363636364,1,1,1.0,0,1,0.0,16.53
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b093qjm7mv,8,2,0.25,0.48,0.96,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b094cthcn3,1,1,1.0,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b09g724dt6,11,1,0.09090909090909093,0.08,0.08,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,b0b5253p1f,9,1,0.1111111111111111,0.22,0.22,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0b5253p1f,2,1,0.5,0.1,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0bb751clg,3,1,0.3333333333333333,0.33,0.33,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0bsbwdjfc,13,1,0.07692307692307693,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0bshdb7f4,103,1,0.009708737864077669,0.11,0.11,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0bshdb7f4,200,1,0.005,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0btds4gys,121,4,0.03305785123966942,0.39,1.56,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,complements,-,b0btds4gys,36,2,0.05555555555555555,0.17,0.34,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0btds4gys,101,4,0.039603960396039604,0.215,0.86,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0btds4gys,62,2,0.03225806451612903,0.245,0.49,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,complements,-,b0btds4gys,11,1,0.09090909090909093,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-09,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b0btds4gys,5,1,0.2,0.4,0.4,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-13,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0btds4gys,12,1,0.08333333333333331,0.18,0.18,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-17,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0btds4gys,8,1,0.125,0.28,0.28,20.66,0.013552758954501453,73.78571428571428,1,1,1.0,0,1,0.0,20.66
+2025-06-18,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,complements,-,b0btds4gys,25,2,0.08,0.215,0.43,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0btds4gys,13,1,0.07692307692307693,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,complements,-,b0btds4gys,21,1,0.04761904761904762,0.2,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-22,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,complements,-,b0btds4gys,16,1,0.0625,0.25,0.25,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-23,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0btds4gys,13,1,0.07692307692307693,0.39,0.39,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0btds4gys,62,3,0.04838709677419355,0.25333333333333335,0.76,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,complements,-,b0btds4gys,45,1,0.022222222222222223,0.02,0.02,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,complements,-,b0btdtn52n,18,1,0.05555555555555555,0.24,0.24,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,complements,-,b0btdtvcg2,2,1,0.5,0.35,0.35,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-22,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,complements,-,b0btdtvcg2,2,1,0.5,0.3,0.3,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0btdtvcg2,45,1,0.022222222222222223,0.29,0.29,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0btdtvcg2,44,1,0.02272727272727273,0.24,0.24,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0btdtvcg2,25,2,0.08,0.385,0.77,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-08,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0btdtvcg2,6,1,0.16666666666666663,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0btdtvcg2,10,1,0.1,0.21,0.21,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-22,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0btdtvcg2,5,1,0.2,0.27,0.27,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,complements,-,b0btdtvcg2,9,1,0.1111111111111111,0.35,0.35,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0c5jkcfdf,15,1,0.06666666666666667,0.19,0.19,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0ccf3l2y6,9,1,0.1111111111111111,0.39,0.39,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0ch2gzcvp,5,1,0.2,0.23,0.23,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-08,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Accessories & Equipment,substitutes,-,b0cjfz9nx4,11,1,0.09090909090909093,0.17,0.17,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0cky23k4q,8,1,0.125,0.31,0.31,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0clvqtngd,12,1,0.08333333333333331,0.24,0.24,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0clvqtngd,40,1,0.025,0.05,0.05,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0clvqtngd,20,1,0.05,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0cqlhb81v,2,1,0.5,0.1,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0csdzs9s6,1,1,1.0,0.08,0.08,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0ctygxg1t,8,1,0.125,0.33,0.33,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Accessories & Equipment,substitutes,-,b0czs72v7v,1,1,1.0,0.32,0.32,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0czs72v7v,2,1,0.5,0.1,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-23,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0czs72v7v,4,1,0.25,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0czs72v7v,18,1,0.05555555555555555,0.04,0.04,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0czsbvkbz,2,1,0.5,0.04,0.04,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0czscf7fc,4,1,0.25,0.08,0.08,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0d3zd7qll,5,1,0.2,0.22,0.22,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0d3zfsh5t,16,1,0.0625,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0d5qgt6jl,1,1,1.0,0.34,0.34,20.66,0.01645692158760891,60.764705882352935,1,1,1.0,0,1,0.0,20.66
+2025-06-14,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b0d87x42rn,1,1,1.0,0.04,0.04,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-22,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b0d87x42rn,6,1,0.16666666666666663,0.12,0.12,16.53,0.007259528130671505,137.75000000000003,1,1,1.0,0,1,0.0,16.53
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0d89z8yfn,1,1,1.0,0.24,0.24,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b0dbm7fb63,4,1,0.25,0.11,0.11,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-14,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0dbm7fb63,5,1,0.2,0.23,0.23,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0dbm9qt9v,62,1,0.016129032258064516,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-08,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0dbm9qt9v,20,1,0.05,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0dbm9qt9v,5,1,0.2,0.22,0.22,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0ddh1wv9q,6,1,0.16666666666666663,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b0ddh1wv9q,4,1,0.25,0.22,0.22,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0dht12yc4,43,2,0.04651162790697675,0.195,0.39,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0djt5ntpw,15,1,0.06666666666666667,0.4,0.4,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0dlbjyvx1,4,1,0.25,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0dlbtcgjr,2,1,0.5,0.08,0.08,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0dnlnsxjz,16,1,0.0625,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-07,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0drgqc6yz,4,1,0.25,0.11,0.11,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0drgqc6yz,1,1,1.0,0.22,0.22,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0dsc6w8tx,91,1,0.01098901098901099,0.32,0.32,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0dsc6w8tx,95,1,0.010526315789473684,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0dsc6w8tx,76,1,0.013157894736842105,0.11,0.11,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0dsc6w8tx,23,1,0.043478260869565216,0.16,0.16,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b0dsc6w8tx,15,1,0.06666666666666667,0.36,0.36,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,b0dsc6w8tx,63,1,0.015873015873015872,0.07,0.07,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0dsc6w8tx,93,1,0.010752688172043012,0.08,0.08,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-07,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,substitutes,-,b0dspxdb9f,1,1,1.0,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0dspxdb9f,82,1,0.012195121951219513,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0dz17lq6q,7,1,0.14285714285714285,0.23,0.23,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0f1f1d2pr,2,2,1.0,0.165,0.33,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-06,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0f1f2pqpk,9,1,0.1111111111111111,0.32,0.32,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0f1f4fm85,8,1,0.125,0.4,0.4,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0f1f4fm85,23,2,0.08695652173913043,0.24000000000000002,0.48000000000000004,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0f4xc3tw2,2,1,0.5,0.14,0.14,20.66,0.006776379477250727,147.57142857142856,1,1,1.0,1,0,20.66,0.0
+2025-06-23,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,b0f7lxfqh7,2,1,0.5,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,ball pressurizer tennis,3,1,0.3333333333333333,0.31,0.31,34.71,0.008931143762604437,111.96774193548387,1,1,1.0,0,1,0.0,34.71
+2025-06-12,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,ball rescuer,1,1,1.0,0.18,0.18,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,ball rescuer padel,4,1,0.25,0.33,0.33,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,ball rescuer padel,8,1,0.125,0.1,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,ball rescuer padel,17,1,0.0588235294117647,0.38,0.38,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,ball rescuer padel,30,1,0.03333333333333333,0.08,0.08,16.53,0.00483968542044767,206.625,1,1,1.0,0,1,0.0,16.53
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bola padel,1,1,1.0,0.38,0.38,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bolas bullpadel premium pro,9,1,0.1111111111111111,0.22,0.22,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bolas de padel,23,1,0.043478260869565216,0.39,0.39,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bolas de padel,41,2,0.04878048780487805,0.44,0.88,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-10,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bolas de padel,4,1,0.25,0.35,0.35,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bolas de tenis,2,1,0.5,0.23,0.23,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bolas de ténis,1,1,1.0,0.19,0.19,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,bolas padel,7,1,0.14285714285714285,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-08,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bolas padel,33,1,0.030303030303030304,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bolas padel,62,1,0.016129032258064516,0.19,0.19,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bolas padel adidas,3,1,0.3333333333333333,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bolas padel presurizador,8,2,0.25,0.605,1.21,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bolas padel vacio,3,1,0.3333333333333333,0.41,0.41,16.53,0.02480338777979431,40.31707317073171,1,1,1.0,0,1,0.0,16.53
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bolas para padel,5,1,0.2,0.16,0.16,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bolas tenis presion,3,1,0.3333333333333333,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bolsa pelotas tenis,1,1,1.0,0.28,0.28,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bomba presurizador padel,19,2,0.10526315789473684,0.285,0.57,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote 3 pelotas padel presion,1,1,1.0,0.28,0.28,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote bolas padel,9,1,0.1111111111111111,0.26,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-12,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote bolas padel presion,1,1,1.0,0.34,0.34,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote bolas presion,26,1,0.038461538461538464,0.28,0.28,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote bolas presurizado,10,1,0.1,0.27,0.27,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote compresor bolas padel,1,1,1.0,0.07,0.07,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote compresor bolas padel,3,1,0.3333333333333333,0.1,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,bote compresor pelotas padel,2,1,0.5,0.19,0.19,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,bote compresor pelotas padel,3,2,0.6666666666666666,0.49,0.98,38.84,0.025231719876416064,39.632653061224495,1,1,0.5,0,1,0.0,38.84
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote de aire para pelotas de tenis,3,1,0.3333333333333333,0.27,0.27,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote de bolas padel a presión,1,1,1.0,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote de pelota presurizada,2,1,0.5,0.06,0.06,20.66,0.002904162633107454,344.33333333333337,1,1,1.0,1,0,20.66,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote de pelotas de padel,11,1,0.09090909090909093,0.26,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-07,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote de presion bolas de padel,1,1,1.0,0.2,0.2,20.66,0.009680542110358181,103.3,1,1,1.0,1,0,20.66,0.0
+2025-06-22,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Accessories & Equipment,close-match,-,bote de presion pelotas padel,2,1,0.5,0.2,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-17,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote de presion pelotas padel,1,1,1.0,0.18,0.18,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote de presion pelotas padel,15,2,0.13333333333333333,0.38,0.76,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote de presion pelotas padel,5,2,0.4,0.31,0.62,34.71,0.017862287525208874,55.983870967741936,1,1,0.5,1,0,34.71,0.0
+2025-06-07,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote de presion pelotas padel,33,1,0.030303030303030304,0.35,0.35,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-23,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote de presion pelotas padel,6,2,0.3333333333333333,0.23,0.46,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-26,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote de presion pelotas padel,4,2,0.5,0.43,0.86,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote de presión pelotas de tenis,2,1,0.5,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote de presión pelotas padel,1,1,1.0,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote descompresión de bolas de padel,1,1,1.0,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-13,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote estanco pelotas padel,6,2,0.3333333333333333,0.39,0.78,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-13,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote mantener presion pelotas padel,1,1,1.0,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-06,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote padel,10,1,0.1,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote padel presion,1,1,1.0,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-10,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote padel presion,2,1,0.5,0.4,0.4,16.53,0.024198427102238355,41.325,1,1,1.0,0,1,0.0,16.53
+2025-06-12,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote padel presurizador,6,1,0.16666666666666663,0.32,0.32,16.53,0.01935874168179068,51.65625,1,1,1.0,0,1,0.0,16.53
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote para bolas de padel,1,1,1.0,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,bote para pelotas de padel presurizador,3,1,0.3333333333333333,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,bote pelotas padel,2,1,0.5,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote pelotas padel aire,2,1,0.5,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Accessories & Equipment,loose-match,-,bote pelotas padel presion,1,1,1.0,0.24,0.24,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote pelotas padel presion,1,1,1.0,0.1,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote pelotas padel presion,4,1,0.25,0.14,0.14,20.66,0.006776379477250727,147.57142857142856,1,1,1.0,1,0,20.66,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote pelotas padel presion,10,1,0.1,0.81,0.81,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,bote pelotas padel presion,8,2,0.25,0.095,0.19,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote pelotas padel presion,14,4,0.2857142857142857,0.205,0.82,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-13,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote pelotas padel presion,1,1,1.0,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote pelotas padel presion,12,1,0.08333333333333331,0.31,0.31,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote pelotas padel presion,6,1,0.16666666666666663,0.29,0.29,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote pelotas padel presion,15,2,0.13333333333333333,0.27,0.54,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,bote pelotas padel presurizador,1,1,1.0,0.1,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote presion bolas padel,1,1,1.0,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-13,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote presion bolas padel,1,1,1.0,0.19,0.19,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presion bolas padel,21,2,0.09523809523809525,0.39,0.78,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presion bolas padel,9,1,0.1111111111111111,0.17,0.17,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-13,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presion bolas padel,19,3,0.15789473684210525,0.33666666666666667,1.01,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presion bolas padel,9,1,0.1111111111111111,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-24,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presion bolas padel,8,1,0.125,0.19,0.19,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presion bolas padel,6,1,0.16666666666666663,0.4,0.4,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presion bolas padel,19,1,0.05263157894736842,0.39,0.39,16.53,0.023593466424682394,42.38461538461539,1,1,1.0,0,1,0.0,16.53
+2025-06-07,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote presion pelotas padel,1,1,1.0,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote presion pelotas padel,7,1,0.14285714285714285,0.07,0.07,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote presion pelotas padel,4,1,0.25,0.2,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presión pelota padel,10,1,0.1,0.38,0.38,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presión pelotas padel,3,1,0.3333333333333333,0.61,0.61,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-18,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presión pelotas padel,17,5,0.29411764705882354,0.18,0.9,20.66,0.04356243949661181,22.955555555555556,1,1,0.2,1,0,20.66,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presión pelotas padel,5,1,0.2,0.5,0.5,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presurizado de tenis,8,1,0.125,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote presurizador bolas de tenis,1,1,1.0,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote presurizador bolas padel,1,1,1.0,0.2,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote presurizador bolas padel,3,1,0.3333333333333333,0.26,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presurizador bolas padel,23,1,0.043478260869565216,0.2,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presurizador bolas padel,29,3,0.10344827586206896,0.5,1.5,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presurizador de tenis 4 bolas,5,1,0.2,0.26,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-14,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote presurizador padel,14,3,0.21428571428571427,0.2733333333333333,0.82,27.27,0.030069673634030066,33.25609756097561,1,1,0.3333333333333333,1,0,27.27,0.0
+2025-06-12,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presurizador para pelotas de padel,9,1,0.1111111111111111,0.28,0.28,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-23,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote presurizador para pelotas de padel,7,1,0.14285714285714285,0.25,0.25,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote presurizador para pelotas de padel,3,1,0.3333333333333333,0.22,0.22,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote presurizador para pelotas de padel y tenis,5,1,0.2,0.4,0.4,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,bote presurizador pelotas padel,1,1,1.0,0.27,0.27,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,bote presurizador pelotas padel,1,1,1.0,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presurizador pelotas padel,8,2,0.25,0.22,0.44,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presurizador pelotas padel,4,1,0.25,0.56,0.56,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-09,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presurizador pelotas padel,2,1,0.5,0.4,0.4,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presurizador pelotas padel,4,1,0.25,0.64,0.64,16.53,0.03871748336358136,25.828125,1,1,1.0,1,0,16.53,0.0
+2025-06-16,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote presurizador pelotas padel,7,1,0.14285714285714285,0.7,0.7,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presurizador pelotas padel,5,1,0.2,0.16,0.16,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote presurizador pelotas padel,29,1,0.034482758620689655,0.32,0.32,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote presurizador pelotas padel,32,1,0.03125,0.16,0.16,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote presurizador pelotas padel,64,2,0.03125,0.355,0.71,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presurizador pelotas padel,23,1,0.043478260869565216,0.36,0.36,16.53,0.021778584392014518,45.91666666666667,1,1,1.0,0,1,0.0,16.53
+2025-06-29,No Portfolio,EUR,PSI3_Auto_SP,PSI29_SP_Auto,substitutes,-,bote presurizador pelotas padel,2,1,0.5,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-07,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,bote presurizador pelotas tenis,1,1,1.0,0.17,0.17,20.66,0.008228460793804454,121.52941176470587,1,1,1.0,1,0,20.66,0.0
+2025-06-26,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bote presurizador pelotas tenis,1,1,1.0,0.5,0.5,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,bote presurizador pelotas tenis,1,1,1.0,0.29,0.29,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presurizador pelotas tenis,6,1,0.16666666666666663,0.31,0.31,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-13,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bote presurizador pelotas tenis,2,1,0.5,0.79,0.79,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-14,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote presurizador pelotas tenis,6,1,0.16666666666666663,0.67,0.67,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-26,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,bote presurizador pelotas tenis,20,1,0.05,0.81,0.81,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,botes presurizados para pelotas de padel,2,1,0.5,0.36,0.36,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-18,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,bounce presurizador,1,1,1.0,0.16,0.16,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,bullpadel bolas,5,1,0.2,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,cajon pelotas de tenis,3,1,0.3333333333333333,0.44,0.44,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-24,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,cargador de presion pelotas padel,7,1,0.14285714285714285,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,carro bolas padel,4,1,0.25,0.08,0.08,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-17,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,compresor bolas padel,31,1,0.03225806451612903,0.78,0.78,16.53,0.04718693284936479,21.192307692307693,1,1,1.0,0,1,0.0,16.53
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,compresor bolas padel,4,1,0.25,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,compresor padel,14,2,0.14285714285714285,0.3,0.6,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-06,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,compresor padel,6,1,0.16666666666666663,0.17,0.17,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,compresor pelotas,1,1,1.0,0.62,0.62,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,compresor pelotas padel,4,1,0.25,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,compresor pelotas padel,5,1,0.2,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,compresor pelotas padel,41,3,0.07317073170731707,0.2366666666666667,0.7100000000000001,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,compresor pelotas padel,14,1,0.07142857142857142,0.23,0.23,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,compresor pelotas padel,38,1,0.02631578947368421,0.63,0.63,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,compresor pelotas padel,24,2,0.08333333333333331,0.46499999999999997,0.9299999999999999,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,compresor pelotas tenis,1,1,1.0,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,compresor pelotas tenis,22,1,0.04545454545454546,0.38,0.38,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,convertidor presión de pelotas,5,2,0.4,0.39,0.78,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,convertir presión de pelotas,1,1,1.0,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,convertir presión de pelotas,11,1,0.09090909090909093,0.17,0.17,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,cámara presión bolas de tenis,1,1,1.0,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,cámara presión bolas de tenis,2,1,0.5,0.42,0.42,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,despresurizador bolas padel,1,1,1.0,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,despresurizador bolas padel,17,1,0.0588235294117647,0.28,0.28,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-10,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,despresurizador bolas padel,4,1,0.25,0.26,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,despresurizador bolas padel,23,2,0.08695652173913043,0.23,0.46,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,despresurizador bolas padel,18,2,0.1111111111111111,0.12,0.24,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,despresurizador bolas padel,12,1,0.08333333333333331,0.04,0.04,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,despresurizador padel,48,2,0.04166666666666666,0.52,1.04,20.66,0.05033881897386254,19.865384615384613,1,1,0.5,1,0,20.66,0.0
+2025-06-10,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,despresurizador padel,3,1,0.3333333333333333,0.65,0.65,20.66,0.03146176185866409,31.784615384615385,1,1,1.0,0,1,0.0,20.66
+2025-06-13,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,despresurizador padel,7,1,0.14285714285714285,0.18,0.18,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-19,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,despresurizador padel,17,1,0.0588235294117647,0.58,0.58,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,despresurizador pelotas de padel,5,1,0.2,0.24,0.24,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,enchedor bolas padel,2,1,0.5,0.2,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,guarda pelotas de tenis,1,1,1.0,0.4,0.4,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-26,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,guardar bolas padel,5,1,0.2,0.29,0.29,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-18,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,guardar pelotas de tenis,3,1,0.3333333333333333,0.51,0.51,33.05,0.015431164901664147,64.80392156862744,1,1,1.0,1,0,33.05,0.0
+2025-06-16,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,guardar pelotas padel,3,1,0.3333333333333333,0.27,0.27,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,head ball pressuriser,2,1,0.5,0.05,0.05,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,head padel pro +,2,1,0.5,0.35,0.35,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,head pressurizer,4,2,0.5,0.14,0.28,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,head pressurizer,6,2,0.3333333333333333,0.22,0.44,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-24,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,head pressurizer,5,1,0.2,0.32,0.32,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,head presurizador con bomba,4,1,0.25,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,head presurizador de bolas,2,1,0.5,0.25,0.25,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,head tenis pelotas,6,1,0.16666666666666663,0.29,0.29,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-08,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,hesacore padel,1,1,1.0,0.21,0.21,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-08,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,hinchador pelotas padel,4,1,0.25,0.45,0.45,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-06,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,inflador bolas padel,4,1,0.25,0.34,0.34,16.53,0.0205686630369026,48.61764705882353,1,1,1.0,0,1,0.0,16.53
+2025-06-22,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,inflador bolas padel,7,1,0.14285714285714285,0.69,0.69,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-14,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,inflador pelotas padel,7,1,0.14285714285714285,0.23,0.23,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,inflador pelotas padel,14,1,0.07142857142857142,0.2,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,mantener aire pelotas padel,1,1,1.0,0.17,0.17,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,mantener bolas tenis presion,8,1,0.125,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,mantener las pelotas tenis y padel,3,1,0.3333333333333333,0.17,0.17,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,mantener presion bolas padel,1,1,1.0,0.11,0.11,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,manómetro presión pelotas padel,2,1,0.5,0.51,0.51,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,nox padel grip,1,1,1.0,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pack de pelotas padel adidas,2,1,0.5,0.26,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,paddle ball pump,2,1,0.5,0.34,0.34,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,padel,70,2,0.02857142857142857,0.245,0.49,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,padel,18,1,0.05555555555555555,0.16,0.16,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,padel accesorios,30,2,0.06666666666666667,0.365,0.73,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,padel accesorios,11,1,0.09090909090909093,0.18,0.18,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,padel accesorios,6,1,0.16666666666666663,0.06,0.06,16.53,0.0036297640653357526,275.50000000000006,1,1,1.0,0,1,0.0,16.53
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,padel accesorios,21,1,0.04761904761904762,0.3,0.3,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,padel ball pressurizer,2,1,0.5,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-06,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,padel ball pressurizer,11,3,0.2727272727272727,0.5666666666666667,1.7,34.71,0.04897723998847594,20.41764705882353,1,1,0.3333333333333333,1,0,34.71,0.0
+2025-06-07,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,padel ball pressurizer,15,1,0.06666666666666667,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,padel ball pressurizer,19,1,0.05263157894736842,0.55,0.55,16.53,0.03327283726557774,30.054545454545455,1,1,1.0,0,1,0.0,16.53
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,padel ball pressurizer,10,1,0.1,0.7,0.7,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,padel ball pressurizer,4,1,0.25,0.26,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,padel ball pressurizer,22,3,0.13636363636363635,0.45,1.35,16.53,0.08166969147005444,12.244444444444445,1,1,0.3333333333333333,0,1,0.0,16.53
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,padel ball pressurizer,5,2,0.4,0.31,0.62,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,padel balls,15,1,0.06666666666666667,0.11,0.11,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,padel lanzador bolas,1,1,1.0,0.1,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,padel mantenedor de pelotas,2,1,0.5,0.25,0.25,34.71,0.007202535292422932,138.84,1,1,1.0,1,0,34.71,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,padel pelotas presurizador,5,1,0.2,0.26,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-12,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,padel presurizador,5,1,0.2,0.2,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,padel presurizador pelotas,2,1,0.5,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,padel presurizador pelotas,1,1,1.0,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,padel presurizador pelotas,2,1,0.5,0.54,0.54,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,padel presurizador pelotas,5,1,0.2,0.2,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,padel presurizador pelotas,16,1,0.0625,0.08,0.08,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pala de padel hombre,4,1,0.25,0.26,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pala padel,38,1,0.02631578947368421,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pala padel adidas,3,1,0.3333333333333333,0.19,0.19,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-26,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,para guardar las pelotas de padel,4,1,0.25,0.1,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,para tenis,1,1,1.0,0.27,0.27,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,pascal box,1,1,1.0,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pascal box,13,1,0.07692307692307693,0.22,0.22,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-06,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pascal box,7,1,0.14285714285714285,0.2,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-10,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pascal box,7,1,0.14285714285714285,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pascal box 3b,24,1,0.04166666666666666,0.26,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-08,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pascal box 3b,4,1,0.25,0.11,0.11,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-24,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pascal box 3b,16,1,0.0625,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-26,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pascal box 3b,10,1,0.1,0.16,0.16,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelota de tenis,13,1,0.07692307692307693,0.35,0.35,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelota de tenis,7,1,0.14285714285714285,0.28,0.28,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-09,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelota padel,1,1,1.0,0.34,0.34,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelota padel,16,1,0.0625,0.16,0.16,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-07,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pelota padel con presurizador,3,1,0.3333333333333333,0.34,0.34,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pelota tenis,1,1,1.0,0.4,0.4,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pelotas de padel,88,2,0.02272727272727273,0.255,0.51,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelotas de padel,80,1,0.0125,0.1,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelotas de tenis,99,1,0.010101010101010102,0.35,0.35,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelotas de tenis,80,1,0.0125,0.2,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Accessories & Equipment,substitutes,-,pelotas padel,3,1,0.3333333333333333,0.18,0.18,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Accessories & Equipment,close-match,-,pelotas padel,3,1,0.3333333333333333,0.46,0.46,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-19,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Accessories & Equipment,close-match,-,pelotas padel,11,1,0.09090909090909093,0.38,0.38,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelotas padel,360,1,0.002777777777777778,0.36,0.36,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelotas padel,524,3,0.005725190839694656,0.5466666666666666,1.64,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pelotas padel,455,3,0.006593406593406593,0.3,0.9,16.53,0.0544464609800363,18.366666666666667,1,1,0.3333333333333333,0,1,0.0,16.53
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pelotas padel,570,6,0.010526315789473684,0.2316666666666667,1.3900000000000001,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-09,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelotas padel,91,1,0.01098901098901099,0.17,0.17,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-10,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelotas padel,66,1,0.01515151515151515,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-12,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pelotas padel,24,1,0.04166666666666666,0.2,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelotas padel,54,1,0.018518518518518517,0.38,0.38,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pelotas padel,7,1,0.14285714285714285,0.31,0.31,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pelotas padel,1,1,1.0,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-22,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelotas padel,61,1,0.01639344262295082,0.33,0.33,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-24,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelotas padel,60,1,0.016666666666666666,0.23,0.23,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-26,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelotas padel,67,1,0.014925373134328356,0.37,0.37,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelotas padel,325,1,0.003076923076923077,0.26,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pelotas padel,308,4,0.012987012987012986,0.245,0.98,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelotas padel,549,1,0.0018214936247723133,0.7,0.7,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelotas padel +,4,1,0.25,0.27,0.27,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-22,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pelotas padel adidas,6,1,0.16666666666666663,0.19,0.19,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-26,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pelotas padel adidas,3,1,0.3333333333333333,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pelotas padel adidas,20,1,0.05,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pelotas padel bullpadel pro,4,1,0.25,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-19,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,pelotas padel caja 24 botes,1,1,1.0,0.08,0.08,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Accessories & Equipment,close-match,-,pelotas padel presurizador,1,1,1.0,0.14,0.14,34.71,0.004033419763756842,247.92857142857142,1,1,1.0,0,1,0.0,34.71
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,pelotas padel presurizador,2,2,1.0,0.115,0.23,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-14,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelotas padel presurizador,17,1,0.0588235294117647,0.52,0.52,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelotas padel presurizador,11,2,0.18181818181818182,0.1,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pelotas padel presurizador,2,1,0.5,0.37,0.37,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,pelotas padel presurizador,0,0,0.0,0.0,0.0,16.53,0.0,0.0,1,1,0.0,1,0,16.53,0.0
+2025-06-12,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pelotas padel pro head,14,1,0.07142857142857142,0.63,0.63,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pelotas padel wilson,7,1,0.14285714285714285,0.23,0.23,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,porta bolas padel,3,1,0.3333333333333333,0.24,0.24,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-24,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,porta pelotas tenis,2,1,0.5,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presion bolas padel,23,3,0.13043478260869565,0.21,0.63,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,presion bolas padel,6,1,0.16666666666666663,0.27,0.27,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presion bolas padel,16,1,0.0625,0.1,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presion bolas padel,9,1,0.1111111111111111,0.26,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presion pelota,3,1,0.3333333333333333,0.4,0.4,16.53,0.024198427102238355,41.325,1,1,1.0,1,0,16.53,0.0
+2025-06-23,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presion pelotas padel,2,2,1.0,0.385,0.77,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presion pelotas padel,1,1,1.0,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presion pelotas padel,11,2,0.18181818181818182,0.13,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-23,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presion pelotas padel,15,1,0.06666666666666667,0.48,0.48,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presion pelotas padel,4,1,0.25,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presion pelotas padel,7,1,0.14285714285714285,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presion pelotas tenis,1,1,1.0,0.35,0.35,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presionador bolas de padel,1,1,1.0,0.19,0.19,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presión bolas padel,10,2,0.2,0.25,0.5,34.71,0.014405070584845865,69.42,1,1,0.5,1,0,34.71,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presión pelotas padel,2,1,0.5,0.28,0.28,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pressure box padel,8,2,0.25,0.23,0.46,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pressure box tennis,5,1,0.2,0.35,0.35,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pressurebox padel automatico,1,1,1.0,0.26,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurización padel,2,1,0.5,0.1,0.1,16.53,0.006049606775559588,165.3,1,1,1.0,1,0,16.53,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador,5,1,0.2,0.08,0.08,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador,15,1,0.06666666666666667,0.26,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-10,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador,8,2,0.25,0.19,0.38,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-23,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador,18,1,0.05555555555555555,0.25,0.25,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-24,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador,18,1,0.05555555555555555,0.08,0.08,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-26,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador,13,1,0.07692307692307693,0.17,0.17,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador 3 pelotas padel,1,1,1.0,0.34,0.34,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador 4 pelotas,2,1,0.5,0.19,0.19,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador 4 pelotas,10,1,0.1,0.38,0.38,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-22,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador bateria pelotas padel,2,1,0.5,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-09,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador bola padel,1,1,1.0,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-09,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador bola padel,3,1,0.3333333333333333,0.11,0.11,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-24,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador bolas de padel,1,1,1.0,0.47,0.47,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador bolas de padel,1,1,1.0,0.2,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-24,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador bolas de padel,24,1,0.04166666666666666,0.36,0.36,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador bolas de padel,8,1,0.125,0.21,0.21,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador bolas de padel 3b,6,1,0.16666666666666663,0.21,0.21,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador bolas ee padel,2,2,1.0,0.135,0.27,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,presurizador bolas padel,12,3,0.25,0.14666666666666667,0.44,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-19,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador bolas padel,27,1,0.037037037037037035,0.27,0.27,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador bolas padel,16,1,0.0625,0.36,0.36,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador bolas padel,59,1,0.01694915254237288,0.19,0.19,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador bolas padel,27,1,0.037037037037037035,0.07,0.07,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador bolas tenis,9,1,0.1111111111111111,0.35,0.35,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,PSI3_Auto_SP,PSI29_SP_Auto,substitutes,-,presurizador bullpadel,2,1,0.5,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador bullpadel pascal box 3b,10,1,0.1,0.04,0.04,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador con bomba padel,4,1,0.25,0.07,0.07,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador con bomba pelotas padel,1,1,1.0,0.41,0.41,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador de bolas de padel,1,1,1.0,0.05,0.05,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador de cristal pelotas padel,1,1,1.0,0.16,0.16,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador de pelotas,1,1,1.0,0.19,0.19,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador de pelotas de padel,6,1,0.16666666666666663,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador de pelotas de padel,17,1,0.0588235294117647,0.64,0.64,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador de pelotas de padel,10,1,0.1,0.38,0.38,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador de pelotas de pádel - bullpadel pascal box,1,1,1.0,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador de pelotas de pádel - bullpadel pascal box,2,1,0.5,0.23,0.23,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador de pelotas de tenis,6,1,0.16666666666666663,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,presurizador de pelotas de tenis,11,1,0.09090909090909093,0.07,0.07,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador head,5,1,0.2,0.06,0.06,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador padel,6,1,0.16666666666666663,0.18,0.18,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador padel,7,2,0.2857142857142857,0.09,0.18,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador padel,4,1,0.25,0.04,0.04,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-17,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador padel,6,1,0.16666666666666663,0.04,0.04,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-19,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador padel,1,1,1.0,0.25,0.25,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador padel,4,2,0.5,0.05,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-24,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador padel,3,1,0.3333333333333333,0.04,0.04,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador padel,5,1,0.2,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,presurizador padel,60,3,0.05,0.2333333333333333,0.7,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador padel,68,1,0.014705882352941175,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-08,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador padel,41,1,0.024390243902439025,0.1,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-17,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador padel,55,2,0.03636363636363636,0.2,0.4,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-18,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador padel,19,2,0.10526315789473684,0.19,0.38,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-19,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador padel,17,2,0.1176470588235294,0.345,0.69,34.71,0.019878997407087293,50.30434782608696,1,1,0.5,0,1,0.0,34.71
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador padel,14,1,0.07142857142857142,0.21,0.21,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,presurizador padel,7,2,0.2857142857142857,0.31,0.62,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,presurizador padel,1,1,1.0,0.25,0.25,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador padel,106,3,0.028301886792452834,0.08666666666666667,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,PSI3_Auto_SP,PSI29_SP_Auto,substitutes,-,presurizador padel,3,1,0.3333333333333333,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-18,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador padel head,2,1,0.5,0.28,0.28,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador padel x3,1,1,1.0,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador para bolas de padel,2,1,0.5,0.36,0.36,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-12,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador para pelotas de padel,2,1,0.5,0.16,0.16,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-09,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador para pelotas tenis,1,1,1.0,0.37,0.37,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pascal,1,1,1.0,0.25,0.25,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-12,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelota de padel,2,1,0.5,0.06,0.06,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-18,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelota padel,6,1,0.16666666666666663,0.21,0.21,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelota tenis,13,1,0.07692307692307693,0.4,0.4,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas,23,5,0.2173913043478261,0.16,0.8,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas,13,3,0.23076923076923078,0.09666666666666666,0.29,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-08,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas,2,1,0.5,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-24,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas,1,1,1.0,0.08,0.08,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas,3,1,0.3333333333333333,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-26,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas,2,1,0.5,0.06,0.06,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas,11,2,0.18181818181818182,0.14500000000000002,0.29000000000000004,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas,5,2,0.4,0.135,0.27,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas,5,1,0.2,0.11,0.11,20.66,0.005324298160696999,187.8181818181818,1,1,1.0,1,0,20.66,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,presurizador pelotas,45,1,0.022222222222222223,0.11,0.11,20.66,0.005324298160696999,187.8181818181818,1,1,1.0,1,0,20.66,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas,175,4,0.022857142857142857,0.20750000000000002,0.8300000000000001,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,presurizador pelotas,186,4,0.021505376344086027,0.105,0.42,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas,10,1,0.1,0.2,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-08,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas,5,1,0.2,0.26,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas,12,1,0.08333333333333331,0.11,0.11,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-18,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas,29,1,0.034482758620689655,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-22,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas,46,1,0.021739130434782608,0.22,0.22,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas,35,1,0.02857142857142857,0.4,0.4,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas,7,1,0.14285714285714285,0.07,0.07,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas,45,2,0.04444444444444445,0.195,0.39,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas,72,2,0.027777777777777776,0.315,0.63,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-26,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas de padel,3,1,0.3333333333333333,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-18,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas de padel,11,1,0.09090909090909093,0.24,0.24,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Accessories & Equipment,substitutes,-,presurizador pelotas padel,17,2,0.1176470588235294,0.51,1.02,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Accessories & Equipment,substitutes,-,presurizador pelotas padel,2,1,0.5,0.37,0.37,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Accessories & Equipment,substitutes,-,presurizador pelotas padel,13,1,0.07692307692307693,0.27,0.27,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-14,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Accessories & Equipment,close-match,-,presurizador pelotas padel,3,1,0.3333333333333333,0.74,0.74,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Accessories & Equipment,loose-match,-,presurizador pelotas padel,14,1,0.07142857142857142,0.44,0.44,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,61,6,0.09836065573770492,0.16833333333333333,1.01,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas padel,120,13,0.10833333333333334,0.12692307692307694,1.6500000000000001,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,121,16,0.1322314049586777,0.1,1.6,20.66,0.07744433688286545,12.9125,1,1,0.0625,1,0,20.66,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas padel,95,15,0.15789473684210525,0.08399999999999999,1.2599999999999998,20.66,0.06098741529525652,16.3968253968254,1,1,0.06666666666666667,1,0,20.66,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,27,1,0.037037037037037035,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-06,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,18,4,0.2222222222222222,0.14,0.56,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-07,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,22,6,0.2727272727272727,0.10666666666666667,0.64,20.66,0.030977734753146177,32.28125,1,1,0.16666666666666663,1,0,20.66,0.0
+2025-06-08,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,40,2,0.05,0.18,0.36,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-09,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas padel,23,4,0.17391304347826086,0.0975,0.39,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-10,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,26,3,0.11538461538461538,0.18666666666666668,0.56,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,13,3,0.23076923076923078,0.17666666666666667,0.53,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-12,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,22,4,0.18181818181818182,0.1775,0.71,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-13,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,13,3,0.23076923076923078,0.11,0.33,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-14,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,20,2,0.1,0.195,0.39,16.53,0.023593466424682394,42.38461538461539,1,1,0.5,0,1,0.0,16.53
+2025-06-15,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,8,1,0.125,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,19,1,0.05263157894736842,0.03,0.03,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-17,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,16,2,0.125,0.17,0.34,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-18,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,21,5,0.23809523809523808,0.11599999999999999,0.58,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-19,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas padel,32,4,0.125,0.10750000000000001,0.43000000000000005,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,46,5,0.10869565217391305,0.126,0.63,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,24,3,0.125,0.10666666666666667,0.32,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-22,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas padel,29,5,0.1724137931034483,0.11400000000000002,0.5700000000000001,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-23,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,15,3,0.2,0.17666666666666667,0.53,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-24,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas padel,22,4,0.18181818181818182,0.185,0.74,20.66,0.03581800580832527,27.91891891891892,1,1,0.25,1,0,20.66,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,36,2,0.05555555555555555,0.145,0.29,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-26,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas padel,27,4,0.14814814814814814,0.1575,0.63,16.53,0.038112522686025406,26.23809523809524,1,1,0.25,0,1,0.0,16.53
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas padel,90,8,0.0888888888888889,0.2025,1.62,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,55,7,0.12727272727272726,0.08428571428571428,0.59,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas padel,51,9,0.17647058823529413,0.10333333333333333,0.93,20.66,0.04501452081316554,22.21505376344086,1,1,0.1111111111111111,1,0,20.66,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas padel,93,13,0.13978494623655913,0.07923076923076923,1.03,41.32,0.02492739593417231,40.116504854368934,2,2,0.15384615384615385,2,0,41.32,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,presurizador pelotas padel,988,25,0.025303643724696356,0.3688,9.22,55.370000000000005,0.166516163987719,6.005422993492408,2,2,0.08,2,0,55.370000000000005,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,presurizador pelotas padel,1241,22,0.017727639000805803,0.2513636363636364,5.53,16.53,0.3345432546884452,2.9891500904159134,1,1,0.04545454545454546,1,0,16.53,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,presurizador pelotas padel,976,19,0.0194672131147541,0.2378947368421053,4.5200000000000005,90.08,0.05017761989342807,19.929203539823007,3,3,0.15789473684210525,2,1,69.42,20.66
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,presurizador pelotas padel,847,12,0.014167650531286895,0.2275,2.73,128.92,0.02117592305305616,47.22344322344322,4,4,0.3333333333333333,0,4,0.0,128.92
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas padel,252,3,0.011904761904761906,0.25,0.75,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-06,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas padel,121,3,0.02479338842975207,0.20000000000000004,0.6000000000000001,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-07,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas padel,223,10,0.04484304932735426,0.255,2.55,16.53,0.15426497277676948,6.4823529411764715,1,1,0.1,0,1,0.0,16.53
+2025-06-08,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas padel,381,6,0.01574803149606299,0.165,0.99,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-09,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas padel,233,6,0.02575107296137339,0.22333333333333336,1.34,20.66,0.06485963213939981,15.417910447761193,1,1,0.16666666666666663,1,0,20.66,0.0
+2025-06-10,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas padel,286,4,0.013986013986013984,0.185,0.74,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas padel,88,2,0.02272727272727273,0.195,0.39,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-12,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas padel,191,4,0.02094240837696335,0.3825,1.53,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-13,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas padel,89,2,0.02247191011235955,0.185,0.37,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-14,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas padel,171,1,0.005847953216374269,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas padel,240,5,0.02083333333333333,0.32999999999999996,1.65,34.71,0.04753673292999135,21.03636363636364,1,1,0.2,1,0,34.71,0.0
+2025-06-16,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas padel,193,1,0.005181347150259068,0.55,0.55,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-17,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas padel,209,4,0.019138755980861243,0.245,0.98,66.12,0.01482153660012099,67.46938775510205,3,4,0.75,1,3,16.53,49.59
+2025-06-18,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas padel,248,5,0.020161290322580645,0.154,0.77,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-19,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas padel,340,6,0.01764705882352941,0.16666666666666666,1.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas padel,456,7,0.015350877192982455,0.11,0.77,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas padel,231,1,0.004329004329004329,0.23,0.23,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-22,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas padel,246,6,0.024390243902439025,0.18500000000000003,1.11,16.53,0.06715063520871142,14.891891891891891,1,1,0.16666666666666663,0,1,0.0,16.53
+2025-06-23,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas padel,118,1,0.00847457627118644,0.22,0.22,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-24,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas padel,272,5,0.01838235294117647,0.172,0.86,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas padel,346,2,0.005780346820809248,0.245,0.49,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-26,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas padel,234,1,0.004273504273504274,0.2,0.2,34.71,0.005762028233938347,173.54999999999998,1,1,1.0,1,0,34.71,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas padel,947,23,0.02428722280887012,0.2891304347826087,6.65,16.53,0.40229885057471265,2.4857142857142858,1,1,0.043478260869565216,0,1,0.0,16.53
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,presurizador pelotas padel,606,17,0.028052805280528052,0.17882352941176471,3.04,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas padel,646,20,0.030959752321981424,0.24700000000000003,4.94,51.24,0.09640905542544886,10.37246963562753,2,2,0.1,2,0,51.24,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,presurizador pelotas padel,1015,13,0.012807881773399015,0.2476923076923077,3.22,20.66,0.1558567279767667,6.416149068322981,1,1,0.07692307692307693,1,0,20.66,0.0
+2025-06-28,No Portfolio,EUR,PSI3_Auto_SP,PSI29_SP_Auto,close-match,-,presurizador pelotas padel,89,4,0.0449438202247191,0.1325,0.53,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,PSI3_Auto_SP,PSI29_SP_Auto,substitutes,-,presurizador pelotas padel,148,7,0.0472972972972973,0.11428571428571428,0.7999999999999999,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,PSI3_Auto_SP,PSI29_SP_Auto,substitutes,-,presurizador pelotas padel,11,1,0.09090909090909093,0.07,0.07,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas padel 3 bolas,1,1,1.0,0.07,0.07,20.66,0.0033881897386253633,295.1428571428571,1,1,1.0,1,0,20.66,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas padel barato,7,1,0.14285714285714285,0.2,0.2,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas padel con bomba,2,1,0.5,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas padel con bomba,1,1,1.0,0.23,0.23,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-11,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas padel con bomba,4,1,0.25,0.11,0.11,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-18,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas padel con bomba,21,2,0.09523809523809525,0.03,0.06,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas padel con bomba,8,1,0.125,0.37,0.37,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas padel head,25,1,0.04,0.27,0.27,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-09,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas padel head,6,1,0.16666666666666663,0.23,0.23,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas padel head,8,1,0.125,0.21,0.21,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas padel head x3,1,1,1.0,0.22,0.22,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas padel pascal box,1,1,1.0,0.1,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas padel pascal box,18,1,0.05555555555555555,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas padel sin,4,1,0.25,0.42,0.42,16.53,0.02540834845735027,39.35714285714286,1,1,1.0,0,1,0.0,16.53
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas padel vidrio,2,1,0.5,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas pádel,8,1,0.125,0.38,0.38,16.53,0.022988505747126436,43.5,1,1,1.0,1,0,16.53,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Accessories & Equipment,substitutes,-,presurizador pelotas tenis,6,2,0.3333333333333333,0.25,0.5,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas tenis,4,1,0.25,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas tenis,30,3,0.1,0.08333333333333333,0.25,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas tenis,3,1,0.3333333333333333,0.18,0.18,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-08,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas tenis,5,2,0.4,0.125,0.25,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-18,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas tenis,2,1,0.5,0.15,0.15,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-19,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas tenis,4,1,0.25,0.22,0.22,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas tenis,1,1,1.0,0.42,0.42,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-24,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador pelotas tenis,1,1,1.0,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador pelotas tenis,2,1,0.5,0.39,0.39,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas tenis,47,2,0.0425531914893617,0.495,0.99,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas tenis,109,2,0.01834862385321101,0.19,0.38,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,presurizador pelotas tenis,71,5,0.07042253521126761,0.264,1.32,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas tenis,42,6,0.14285714285714285,0.35333333333333333,2.12,38.84,0.05458290422245108,18.32075471698113,2,2,0.3333333333333333,1,1,20.66,18.18
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas tenis,10,1,0.1,0.24,0.24,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-06,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas tenis,34,2,0.0588235294117647,0.205,0.41,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-08,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas tenis,105,3,0.02857142857142857,0.19333333333333333,0.58,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-09,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas tenis,29,1,0.034482758620689655,0.4,0.4,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas tenis,41,1,0.024390243902439025,0.44,0.44,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-19,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas tenis,7,1,0.14285714285714285,0.18,0.18,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas tenis,7,1,0.14285714285714285,0.19,0.19,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas tenis,31,1,0.03225806451612903,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas tenis,66,1,0.01515151515151515,0.28,0.28,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,presurizador pelotas tenis,110,7,0.06363636363636363,0.23,1.61,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador pelotas tenis,71,4,0.05633802816901409,0.345,1.38,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,PSI3_Auto_SP,PSI29_SP_Auto,substitutes,-,presurizador pelotas tenis,25,2,0.08,0.14500000000000002,0.29000000000000004,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,presurizador tenis,12,2,0.16666666666666663,0.48,0.96,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-26,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,presurizador tenis tubo,1,1,1.0,0.05,0.05,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,presurizador+pelotas+padel,1,1,1.0,0.07,0.07,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,PSI3_Auto_SP,PSI29_SP_Auto,loose-match,-,presurizador.padel,2,1,0.5,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-23,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,preusirador 3 pelotas padel,1,1,1.0,0.43,0.43,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,preusirador pelotas padel,2,1,0.5,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-23,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,preusirador pelotas padel,1,1,1.0,0.33,0.33,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-06,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,preusirador pelotas padel,3,1,0.3333333333333333,0.32,0.32,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-10,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,pump balls padel,1,1,1.0,0.68,0.68,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,raqueta de padel,1,1,1.0,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,rebotador de pelotas tenis,3,1,0.3333333333333333,0.44,0.44,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-16,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,recoge pelotas padel,2,1,0.5,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,recuperador de bolas padel,1,1,1.0,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,recuperador pelotas padel,11,1,0.09090909090909093,0.23,0.23,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,recuperador presion pelotas de padel,1,1,1.0,0.04,0.04,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,recuperador presion pelotas de padel,3,1,0.3333333333333333,0.28,0.28,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,regulador presión tubo pelotas,3,1,0.3333333333333333,0.11,0.11,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-24,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,siux padel,1,1,1.0,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,tapa presurizador padel,2,1,0.5,0.18,0.18,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tenis bomba,4,2,0.5,0.14,0.28,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-14,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,tennis ball pressurizer,1,1,1.0,0.31,0.31,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-19,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,tennis ball pressurizer,1,1,1.0,0.55,0.55,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,tennis ball pressurizer,4,2,0.5,0.3,0.6,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-22,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,tennis ball pressurizer,1,1,1.0,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,tennis ball pressurizer,1,1,1.0,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-22,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tennis ball pressurizer,7,1,0.14285714285714285,0.26,0.26,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tennis balls box,1,1,1.0,0.25,0.25,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-10,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,tennis balls pressurizer,1,1,1.0,0.47,0.47,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tubo bolas padel,5,1,0.2,0.12,0.12,16.53,0.007259528130671505,137.75000000000003,1,1,1.0,0,1,0.0,16.53
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,tubo de presion para pelotas de padel,2,2,1.0,0.125,0.25,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tubo guarda pelotas de padel,3,1,0.3333333333333333,0.17,0.17,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tubo padel,6,2,0.3333333333333333,0.16,0.32,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-26,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tubo plus,3,1,0.3333333333333333,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tubo plus,3,1,0.3333333333333333,0.09,0.09,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tubo plus,4,1,0.25,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tubo plus x3 padel,10,1,0.1,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-27,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tubo presurizador head x3 black,1,1,1.0,0.16,0.16,16.53,0.00967937084089534,103.3125,1,1,1.0,1,0,16.53,0.0
+2025-06-17,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,tubo presurizador pelotas padel,2,2,1.0,0.06,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,tubo presurizador pelotas padel,4,1,0.25,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,tubo presurizador pelotas padel,49,1,0.020408163265306124,0.32,0.32,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-17,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tubo presurizador pelotas padel,16,1,0.0625,0.21,0.21,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tubo presurizador pelotas padel,5,1,0.2,0.19,0.19,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-23,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,tubo presurizador pelotas padel,3,1,0.3333333333333333,0.24,0.24,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-12,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tubo recogepelotas tenis,14,1,0.07142857142857142,0.28,0.28,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tubo recogepelotas tenis,12,2,0.16666666666666663,0.225,0.45,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tubo vacio pelotas tenis,8,1,0.125,0.17,0.17,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tubo x4 padel,2,1,0.5,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-15,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Accessories & Equipment,loose-match,-,tuboplus,4,1,0.25,0.4,0.4,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tuboplus,1,1,1.0,0.07,0.07,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-08,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,tuboplus,10,1,0.1,0.24,0.24,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-18,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,tuboplus,19,1,0.05263157894736842,0.07,0.07,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,tuboplus,4,1,0.25,0.04,0.04,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-22,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,tuboplus,23,1,0.043478260869565216,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-24,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tuboplus,5,1,0.2,0.22,0.22,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-28,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,tuboplus,16,1,0.0625,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tuboplus 29psi,4,2,0.5,0.155,0.31,34.71,0.008931143762604437,111.96774193548387,1,1,0.5,0,1,0.0,34.71
+2025-06-01,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,tuboplus 29psi x3e,1,1,1.0,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-10,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,tuboplus bote presurizador,1,1,1.0,0.1,0.1,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,close-match,-,tuboplus bote presurizador,1,1,1.0,0.17,0.17,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,tuboplus bote presurizador,3,1,0.3333333333333333,0.33,0.33,16.53,0.019963702359346643,50.09090909090909,1,1,1.0,0,1,0.0,16.53
+2025-06-15,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Accessories & Equipment,loose-match,-,tuboplus presurizador pelotas padel,3,1,0.3333333333333333,0.39,0.39,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-02,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tuboplus presurizador pelotas padel,9,1,0.1111111111111111,0.4,0.4,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-30,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tuboplus presurizador pelotas padel,19,1,0.05263157894736842,0.34,0.34,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-04,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tuboplus x3,3,1,0.3333333333333333,0.07,0.07,16.53,0.004234724742891712,236.14285714285714,1,1,1.0,1,0,16.53,0.0
+2025-06-20,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tuboplus x4,3,1,0.3333333333333333,0.08,0.08,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-22,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Tennis Balls,loose-match,-,tubos para pelotas de padel,1,1,1.0,0.07,0.07,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tubos para pelotas de padel,6,1,0.16666666666666663,0.32,0.32,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,tubox3,1,1,1.0,0.04,0.04,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-08,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tubox3,6,1,0.16666666666666663,0.13,0.13,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-21,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,tubox3 crystal,2,1,0.5,0.2,0.2,20.66,0.009680542110358181,103.3,1,1,1.0,1,0,20.66,0.0
+2025-06-25,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,close-match,-,tubox4,1,1,1.0,0.12,0.12,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-03,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,substitutes,-,tubox4 crystal,1,1,1.0,0.14,0.14,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-29,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,vacio pelotas padel,5,1,0.2,0.16,0.16,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
+2025-06-05,No Portfolio,EUR,SP Entire Catalog 13-jan-2025 31f106,TUBOPLUS - Padel Accessories,loose-match,-,wilson tennis,2,1,0.5,0.07,0.07,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0.0
