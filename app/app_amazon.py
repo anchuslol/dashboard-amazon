@@ -39,7 +39,7 @@ def estandarizar_fechas(df):
 # ---- Configuración de la aplicación ----
 st.set_page_config(page_title='Dashboard Amazon', page_icon='🛒', layout='wide')
 
-BASE_PATH = Path('C:/Users/Maria.Mezquita/OneDrive/Documentos/GitHub/AMAZON PROYECTO FINAL/data/clean')
+BASE_PATH = Path(__file__).parent.parent / "data" / "clean"
 
 # ------------- TABS PRINCIPALES -------------
 tab1, tab2, tab3, tab4 = st.tabs([
