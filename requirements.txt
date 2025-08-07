@@ -4,7 +4,6 @@ numpy
 python-dotenv
 requests
 tqdm
-re
 unicodedata
 pathlib
 
