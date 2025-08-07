@@ -4,8 +4,7 @@ numpy
 python-dotenv
 requests
 tqdm
-unicodedata
-pathlib
+
 
 # Visualización
 matplotlib
