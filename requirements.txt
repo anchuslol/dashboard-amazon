@@ -1,17 +1,32 @@
+# Core
 pandas
 numpy
 python-dotenv
+requests
+tqdm
+re
+unicodedata
+pathlib
+
+# Visualización
 matplotlib
 seaborn
 plotly
 wordcloud
+
+# Streamlit
 streamlit
 streamlit-aggrid
-prophet
+streamlit-extras
+
+# Machine Learning y Estadística
 scikit-learn
+prophet
 statsmodels
+
+# Bases de datos
 sqlalchemy
-requests
+
+# IA / NLP
 openai
 langchain
-tqdm
